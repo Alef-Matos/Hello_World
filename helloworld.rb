@@ -1,6 +1,6 @@
 puts("Hello World!")
 
-num1 = 20
-num2 = 8
+num1 = 2000
+num2 = 22
 
 puts(num1 + num2)
